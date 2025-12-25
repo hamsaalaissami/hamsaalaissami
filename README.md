@@ -35,14 +35,6 @@ Problem Solving
 
 Learning by building projects
 
-🛠️ Projects
-
-Project Name
-A simple project built to practice Flutter / UI concepts.
-
-🔗 Project link
-
-🎯 Focus: Learning, experimentation, and practice
 
 📬 Contact
 
