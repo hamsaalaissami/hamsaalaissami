@@ -38,8 +38,8 @@ Learning by building projects
 
 📬 Contact
 
-📧 Email: your@email.com
+📧 Email: hamsa.alaissami4@gmail.com 
 
-🌐 GitHub: github.com/yourusername
+🌐 GitHub: hamsa.alaissami4@gmail.com 
 
 ✨ Every project is a step toward becoming better.
